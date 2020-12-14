@@ -13,6 +13,6 @@ This is demo of creating xcframework using cocoapods!
   s.source           = { :git => 'https://github.com/yo2bh/YBNetworkKit.git', :tag => '0.0.1' }
  
   s.ios.deployment_target = '11.0'
-  s.source_files = 'Sources/YBNetworkManager/*.swift'
+  s.source_files = 'Sources/YBNetworkManager/NetworkManager.swift'
  
 end
